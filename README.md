@@ -21,19 +21,3 @@ Each project is housed in its own isolated directory complete with its source co
 *(More projects will be migrated to this repository shortly.)*
 
 ---
-
-## ⚙️ Repository Structure & Navigation
-
-This repository is structured as a "monorepo." Each folder acts as an independent project to ensure dependencies and environments remain clean.
-
-```text
-📦 ML-College-Projects
- ┣ 📂 Credit-Card-ML              # Default risk classification workflow
- ┃ ┣ 📂 src
- ┃ ┣ 📜 README.md
- ┃ ┗ 📜 requirements.txt
- ┣ 📂 Diabetes-Prediction-ML      # KNN prediction model & seaborn visualizations
- ┃ ┣ 📜 Disease Prediction.ipynb
- ┃ ┣ 📜 README.md
- ┃ ┗ 📜 requirement.txt
- ┗ 📜 README.md                   # You are here!
